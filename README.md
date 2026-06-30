@@ -20,7 +20,7 @@ Handle missing data through preprocessing techniques.
 Incorporate a Random Forest Regressor model to predict prices.
 Installation
 Clone the repository:
-git clone https://github.com/Mohshaikh23/Dynamic-Pricing-Strategy.git
+git clone 
 Navigate to the project directory:
 cd dynamic-pricing-app
 Install the required dependencies using pip:
